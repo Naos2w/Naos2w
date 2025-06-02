@@ -1,15 +1,11 @@
 <h1 align="center">👋 Hi, I'm Naos Tsai<br><br><img src="https://komarev.com/ghpvc/?username=Naos2w&style=for-the-badge"></h1>
 
----
-
 - 💻 [My Personal Website](https://naos2w.github.io/)
 - 📫 How to reach me 👉 **naostsai.work@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tsung-yu-tsai-5516b5251/) | [GitHub](https://github.com/Naos2w) | [CakeResume](https://www.cake.me/me/tsung-yu-tsai)
 - 📄 Resume Download Link: [English Resume (PDF)](https://pdfs.cakeresume.com/user_pdfs/b699cbf7-3e06-4121-a608-9fcd13bdf481.pdf) | [中文履歷 (PDF)](https://pdfs.cakeresume.com/user_pdfs/f6c75691-30ea-4002-8520-f917bd3f5bcc.pdf)
 
 <h2 align="center">📓 Tech Stack</h2>
-
----
 
 ### 💻 Languages & Frameworks
 
@@ -23,14 +19,10 @@
 
 ![IBM Db2](https://img.shields.io/badge/IBM_Db2-0530AD?style=for-the-badge&logo=ibm&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cursor AI](https://img.shields.io/badge/Cursor_AI-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
 
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naos2w&show_icons=true&theme=github_dark&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naos2w&layout=compact&theme=github_dark)
-
----
 
 <h2 align="center">🎯 Motto</h2>
 
